@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "vendor": "Apple",
+      "title": "Apple iPhone SE (2020) - 64GB - Zwart",
+      "description": "2020 | iOS 13 | 4G | 4.7 inch scherm",
+      "stars": 5,
+      "reviews": 92,
+      "price": 458,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "vendor": "Apple",
+      "title": "Apple iPhone 12 - 128GB - Zwart",
+      "description": "2020 | iOS 14 | 5G | 6.1 inch scherm",
+      "stars": 5,
+      "reviews": 52,
+      "price": 915,
+      "inStock": false
+    },
+    {
+      "id": 3,
+      "vendor": "Apple",
+      "title": "Apple iPhone 12 Mini - 64GB - Zwart",
+      "description": "2020 | iOS 14 | 5G | 5.4 inch scherm",
+      "stars": 5,
+      "reviews": 36,
+      "price": 685,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "vendor": "Apple",
+      "title": "Apple iPhone 11 - 64GB - Zwart",
+      "description": "2019 | iOS 13 | 4G | 6.1 inch scherm",
+      "stars": 5,
+      "reviews": 120,
+      "price": 642,
+      "inStock": false
+    }
+  ]
+}
